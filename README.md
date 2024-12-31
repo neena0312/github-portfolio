@@ -1,6 +1,8 @@
 <h1>Hi, I'm Neena!</h1>
 <p>Director Data Science & Analytics | Business Intelligence | AI & Machine Learning | Predictive & Prescriptive Analytics | Optimization Models | Mega Cuber</p>
 
+### Summary
+
 • Director of Data Science & Analytics with over 15 years of experience
 
 • Driving financial optimization, applying Data Science to enhance operational efficiency, and leveraging Business Intelligence to transform reporting
@@ -9,4 +11,32 @@
 
 • Recognized for delivering measurable business outcomes and earning multiple  awards for outstanding leadership and cross-functional collaboration
 
+### Skills
 
+•	Data Science & Advanced Analytics
+•	Predictive & Prescriptive Analytics
+•	AI & Machine Learning Algorithms
+•	Business Intelligence & Data Visualization
+•	Strategic Reporting & Actionable Insights 
+•	KPI Dashboard Design & Development
+•	Optimization Models for Operational Efficiency
+•	M&A Post-Acquisition Data Integration
+•	Finance Transformation
+•	Process Optimization
+•	Data Governance & Integration
+•	Cross-Functional Leadership & Collaboration
+ 
+Programming & Data Science: Python, SQL, TensorFlow, Scikit-learn 
+ERP Systems & Planning: SAP, Oracle, Hyperion
+Business Intelligence Tools: Power BI, Tableau, Spotfire, Excel
+
+
+### Tools | Frameworks
+
+Data Preprocessing: NumPy, Pandas. 
+
+Machine and Deep Learning Implementation Framework: Scikit-Learn, PyTorch. 
+
+Data Visualization: Matplotlib, Tableau, Seaborn, Power BI. 
+
+Integrated Development Environment: Jupyter-Notebook, Google Colab.
