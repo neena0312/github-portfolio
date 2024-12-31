@@ -5,7 +5,7 @@
 ---
 
 ### **Summary**
-- **Data Science & Analytics**: Applying advanced analytics and predictive modeling to drive efficiency, uncover opportunities, and solve complex challenges.
+- **Data Science & Analytics**: Applying advanced analytics and predictive modeling to drive growth and efficiency, uncover opportunities, and solve complex challenges.
 - **Business Intelligence & Actionable Insights**: Designing dashboards and visualizations to transform reporting and empower decision-making.
 - **Optimization Models, Transformation & Leadership**: Leveraging optimization techniques, spearheading finance transformation, and driving cross-functional collaboration for measurable business outcomes.
 
