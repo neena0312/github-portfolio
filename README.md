@@ -14,29 +14,39 @@
 ### Skills
 
 •	Data Science & Advanced Analytics
+
 •	Predictive & Prescriptive Analytics
+
 •	AI & Machine Learning Algorithms
+
 •	Business Intelligence & Data Visualization
+
 •	Strategic Reporting & Actionable Insights 
+
 •	KPI Dashboard Design & Development
+
 •	Optimization Models for Operational Efficiency
+
 •	M&A Post-Acquisition Data Integration
+
 •	Finance Transformation
+
 •	Process Optimization
+
 •	Data Governance & Integration
+
 •	Cross-Functional Leadership & Collaboration
  
-Programming & Data Science: Python, SQL, TensorFlow, Scikit-learn 
-ERP Systems & Planning: SAP, Oracle, Hyperion
-Business Intelligence Tools: Power BI, Tableau, Spotfire, Excel
-
-
 ### Tools | Frameworks
+
+ProgrammingProgramming: Python.
 
 Data Preprocessing: NumPy, Pandas. 
 
-Machine and Deep Learning Implementation Framework: Scikit-Learn, PyTorch. 
+Machine and Deep Learning Implementation Framework: Scikit-Learn, TensorFlow, PyTorch. 
 
-Data Visualization: Matplotlib, Tableau, Seaborn, Power BI. 
+Data Visualization: Matplotlib, Tableau, Seaborn, Power BI, Spotfire. 
 
 Integrated Development Environment: Jupyter-Notebook, Google Colab.
+
+ERP Systems & Planning: SAP, Oracle, Hyperion.
