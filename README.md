@@ -1,5 +1,4 @@
 <h1>Hi, I'm Neena!</h1>
-<p>Director Data Science & Analytics | Business Intelligence | AI & Machine Learning | Predictive & Prescriptive Analytics | Optimization Models | Mega Cuber</p>
 
 ### Summary
 
@@ -25,14 +24,14 @@
 
 ### Tools | Frameworks
 
-ProgrammingProgramming: Python.
+**Programming:** Python.
 
-Data Preprocessing: NumPy, Pandas. 
+**Data Preprocessing:** NumPy, Pandas. 
 
-Machine and Deep Learning Implementation Framework: Scikit-Learn, TensorFlow, PyTorch. 
+**Machine and Deep Learning Implementation Framework:** Scikit-Learn, TensorFlow, PyTorch. 
 
-Data Visualization: Matplotlib, Tableau, Seaborn, Power BI, Spotfire. 
+**Data Visualization:** Matplotlib, Tableau, Seaborn, Power BI, Spotfire. 
 
-Integrated Development Environment: Jupyter-Notebook, Google Colab.
+**Integrated Development Environment:** Jupyter-Notebook, Google Colab.
 
-ERP Systems & Planning: SAP, Oracle, Hyperion.
+**ERP Systems & Planning:** SAP, Oracle, Hyperion.
