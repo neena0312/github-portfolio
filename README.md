@@ -39,5 +39,5 @@
 
 ---
 
-🌟 _Explore my repositories to see projects where I blend finance, AI, and analytics to solve real-world challenges._  
+🌟 _Explore my repositories to see projects where I blend Data Science, Analytics, Business Intelligence and Core Finance to solve real-world challenges._  
 📫 _Feel free to connect with me or drop a message!_
