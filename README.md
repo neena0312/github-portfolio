@@ -13,30 +13,16 @@
 
 ### Skills
 
-•	Data Science & Advanced Analytics
+•	Data Science & Advanced Analytics  |   Predictive & Prescriptive Analytics  |  AI & Machine Learning Algorithms
 
-•	Predictive & Prescriptive Analytics
+•	Business Intelligence  |  Data Visualization  |  KPI Dashboard Design & Development
 
-•	AI & Machine Learning Algorithms
+•	Optimization Models |  Actionable Insights
 
-•	Business Intelligence & Data Visualization
+•	M&A Post-Acquisition Data Integration  |  Finance Transformation
 
-•	Strategic Reporting & Actionable Insights 
+•	Process Optimization  |  Data Governance & Integration  |  Data Management
 
-•	KPI Dashboard Design & Development
-
-•	Optimization Models for Operational Efficiency
-
-•	M&A Post-Acquisition Data Integration
-
-•	Finance Transformation
-
-•	Process Optimization
-
-•	Data Governance & Integration
-
-•	Cross-Functional Leadership & Collaboration
- 
 ### Tools | Frameworks
 
 ProgrammingProgramming: Python.
