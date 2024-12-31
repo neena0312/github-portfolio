@@ -5,9 +5,9 @@
 ---
 
 ### **Summary**
-- **Data Science & Business Intelligence**: Leveraging analytics to enhance operational efficiency and transform reporting processes.
-- **Leadership**: Proven track record in delivering measurable business outcomes and earning multiple awards for outstanding leadership and collaboration.
-- **Actionable Insights**: Expertise in turning complex datasets into strategies that drive growth and efficiency.
+- **Data Science & Analytics**: Applying advanced analytics and predictive modeling to drive efficiency, uncover opportunities, and solve complex challenges.
+- **Business Intelligence & Actionable Insights**: Designing dashboards and visualizations to transform reporting and empower decision-making.
+- **Optimization Models, Transformation & Leadership**: Leveraging optimization techniques, spearheading finance transformation, and driving cross-functional collaboration for measurable business outcomes.
 
 ---
 
