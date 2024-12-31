@@ -1,5 +1,5 @@
 <h1>Director of Data Science & Analytics</h1>
-
+🌟 Passionate about leveraging data science and technology to solve complex business problems and empower decision-making.<br>
 ### Summary<br>
 • Applying Data Science to enhance operational efficiency, and leveraging Business Intelligence to transform reporting<br>
 • Proven expertise in process automation, M&A integration, and KPI development, achieving impactful results<br>
