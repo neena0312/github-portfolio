@@ -20,10 +20,10 @@
 ---
 
 ### **Key Contributions**
-- **Develop Predictive Models**: Achieved **7% YoY sales growth** by building advanced forecasting models.  
-- **Strategic BI Dashboards**: Designed dashboards boosting operational efficiency by **30%** and productivity by **40%**.  
-- **Resource Optimization**: Enhanced marketing and inventory management with optimization models, delivering measurable cost savings.  
-- **AI/ML Integration**: Applied advanced algorithms for process automation; earned certifications from **MIT** and **Stanford**.  
+- **Develop Predictive Models**: Create advanced forecasting models to drive growth, such as achieving **7% YoY sales increases** using data-driven insights.  
+- **Strategic BI Dashboards**: Design and deploy real-time dashboards that improve decision-making, boosting operational efficiency by **30%** and productivity by **40%**.  
+- **Optimization Models**: Enhanced marketing and inventory management with optimization models, delivering measurable cost savings.  
+- **AI/ML Integration**: Applied advanced algorithms for actionable analytics and process automation; earned certifications from **MIT** and **Stanford**.  
 - **Seamless M&A Integration**: Reduced errors by **25%** through post-acquisition financial integration projects.  
 - **Finance Transformation**: Spearheaded **SAP R3** implementations and GL/HRMS automation for enhanced reporting.
 
