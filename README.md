@@ -1,8 +1,7 @@
-<h1>Hi, I'm Neena!</h1>
+<h1>Director of Data Science & Analytics</h1>
 
 ### Summary<br>
-• Director of Data Science & Analytics with over 15 years of experience<br>
-• Driving financial optimization, applying Data Science to enhance operational efficiency, and leveraging Business Intelligence to transform reporting<br>
+• Applying Data Science to enhance operational efficiency, and leveraging Business Intelligence to transform reporting<br>
 • Proven expertise in process automation, M&A integration, and KPI development, achieving impactful results<br>
 • Recognized for delivering measurable business outcomes and earning multiple  awards for outstanding leadership and cross-functional collaboration<br>
 
