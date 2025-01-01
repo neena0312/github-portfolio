@@ -1,8 +1,10 @@
 <h1 align="center">Director of Data Science & Analytics</h1>
 
 👋 Welcome to my GitHub profile! I bring **15+ years of experience** in **finance**, **data science**, and **business transformation**, with a passion for solving complex business problems using technology and data-driven solutions.
-
----
+<details>
+<summary>
+  More stuff about me
+</summary>
 
 ### **Summary**
 - **Data Science & Analytics**: Applying advanced analytics and predictive modeling to drive growth and efficiency, uncover opportunities, and solve complex challenges.
