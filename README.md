@@ -22,4 +22,5 @@ Welcome to my GitHub profile! I bring **15+ years of experience** in **finance**
 - **Integrated Development Environments**: Jupyter Notebook, Google Colab  
 ---
 🌟 _Explore my repositories to see projects where I blend Data Science, Business Analytics and Business Intelligence to solve real-world challenges._  
-📫 _Feel free to connect with me or drop a message!_
+📫 _Feel free to connect with me or drop a message!_ neenasinghal@yahoo.com | 1-408-896-9714
+<a href="[https://www.linkedin.com/in/neenasinghal/]/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height=25></a></p>
