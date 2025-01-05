@@ -1,5 +1,4 @@
 <h1 align="center">Hi, I'm Neena👋</h1>
-
 Welcome to my GitHub profile! I bring **15+ years of experience** in **finance**, **data science**, **business intelligence** and **business transformation**, with a passion for solving complex business problems using technology and data-driven solutions. 
 ---
 ### **Core Skills**
