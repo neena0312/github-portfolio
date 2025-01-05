@@ -35,4 +35,4 @@
 - **Diploma in Financial Management**, NMIMS
 
 🌟 _Explore my repositories to see projects where I blend Data Science, Business Analytics and Business Intelligence to solve real-world challenges._
-🌟 Follow me on LinkedIn: www.linkedin.com/comm/mynetwork/discovery-see-all?usecase=PEOPLE_FOLLOWS&followMember=neenasinghal
+🌟 [Follow me on LinkedIn](www.linkedin.com/comm/mynetwork/discovery-see-all?usecase=PEOPLE_FOLLOWS&followMember=neenasinghal)
