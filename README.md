@@ -5,8 +5,8 @@
 ### **Core Skills**💻
 - 📊**Data Science** | Advanced Analytics | Predictive & Prescriptive Analytics | Optimization Models
 - 🎨**Business Intelligence** | Data Visualization | KPI Dashboards | Actionable Insights
-- 🔄**Finance Transformation** | Process Simplification & Automation | M&A Post-Acquisition Integration
 - 🤖**AI & Machine Learning Algorithms** | Advanced Modeling Techniques
+- 🔄**Finance Transformation** | Process Simplification & Automation | M&A Post-Acquisition Integration
 - 💰**Core Finance** | Financial Planning & Analysis | Strategic Business Partnership | Financial Systems Upgrades | SAP Implementation
 ---
 ### **Tech Toolbox**🛠️
