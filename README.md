@@ -2,7 +2,7 @@
 
 ### Working for over 15 years at the intersection of data science, business intelligence, and finance transformation, I am passionate about solving complex business problems using technology and data-driven solutions.
 ---
-### **Core Skills**💻
+### **Skills**💻
 - 📊**Data Science** | Advanced Analytics | Predictive & Prescriptive Analytics | Optimization Models
 - 🎨**Business Intelligence** | Data Visualization | KPI Dashboards | Actionable Insights
 - 🤖**AI & Machine Learning Algorithms** | Advanced Modeling Techniques
