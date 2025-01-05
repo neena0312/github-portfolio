@@ -17,7 +17,9 @@
 - **ERP Systems**: SAP, Oracle, Hyperion  
 - **Integrated Development Environments**: Jupyter Notebook, Google Colab  
 ---
-### **[Data Science Projects](https://github.com/neenasinghal/Data-Science-Portfolio)**📊🤖
+### [Data Science Projects](https://github.com/neenasinghal/Data-Science-Portfolio)📊🤖
+- [Customer Churn Prediction](https://github.com/neenasinghal/Data-Science-Portfolio/blob/main/Customer%20Churn%20Prediction/Customer%20Churn%20Prediction.ipynb)  
+- [Customer Insights for Marketing Campaign](https://github.com/neenasinghal/Data-Science-Portfolio/blob/main/Customer%20Churn%20Prediction/Customer%20Churn%20Prediction.ipynb)
 ---
 ### **Education**🎓
 - **Professional Certificate in Data Science and Analytics**, Massachusetts Institute of Technology, Dec 2024
