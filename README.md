@@ -1,4 +1,4 @@
-👋 **Hi, I'm Neena! Welcome to my GitHub profile!**
+##👋 Hi, I'm Neena! Welcome to my GitHub profile!
 
 Working for over 15 years at the intersection of data science, business intelligence, and finance transformation, I am passionate about solving complex business problems using technology and data-driven solutions.
 ---
