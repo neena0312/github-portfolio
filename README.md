@@ -1,6 +1,6 @@
-# 👋 Hi, I'm Neena!
+# 👋 Hi, I'm Neena! Welcome to my GitHub profile!
 
-## Welcome to my GitHub profile! I bring **15+ years of experience** in **finance**, **data science**, **business intelligence** and **business transformation**, with a passion for solving complex business problems using technology and data-driven solutions. 
+## Working for over 15 years at the intersection of data science, business intelligence, and finance transformation, I have a passion for solving complex business problems using technology and data-driven solutions.
 ---
 ### **Core Skills**
 - **Data Science** | Advanced Analytics | Predictive & Prescriptive Analytics | Optimization Models
