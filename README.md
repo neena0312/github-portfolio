@@ -20,8 +20,8 @@
 ### [Data Science Projects](https://github.com/neenasinghal/Data-Science-Portfolio)📊🤖
 - [Customer Churn Prediction](https://github.com/neenasinghal/Data-Science-Portfolio/blob/main/Customer%20Churn%20Prediction/Customer%20Churn%20Prediction.ipynb)  
 - [Customer Insights for Marketing Campaign](https://github.com/neenasinghal/Data-Science-Portfolio/blob/main/Customer%20Churn%20Prediction/Customer%20Churn%20Prediction.ipynb)
-- Supply Chain Demand Optimization (Work in progress)
-- Sales Forecasting for Walmart Stores (Work in progress)
+- [Supply Chain Demand Optimization](https://github.com/neenasinghal/Data-Science-Portfolio/tree/main/Supply%20Chain%20Demand%20Optimization)
+- [Sales Forecasting for Walmart Stores](https://github.com/neenasinghal/Data-Science-Portfolio/tree/main/Sales%20Forecasting%20for%20Walmart%20Stores)
 ---
 ### **Education**🎓
 - **Professional Certificate in Data Science and Analytics**, Massachusetts Institute of Technology, Dec 2024
