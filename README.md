@@ -2,12 +2,12 @@
 
 #### Working for over 15 years at the intersection of data science, business intelligence, and finance transformation, I am passionate about solving complex business problems using technology and data-driven solutions.
 ---
-#### **Core Skills**
-- **Data Science** | Advanced Analytics | Predictive & Prescriptive Analytics | Optimization Models
-- **Business Intelligence** | Data Visualization | KPI Dashboards | Actionable Insights
-- **Finance Transformation** | Process Simplification & Automation | M&A Post-Acquisition Integration
-- **AI & Machine Learning Algorithms** | Advanced Modeling Techniques
-- **Core Finance** | Financial Planning & Analysis | Strategic Business Partnership | Financial Systems Upgrades | SAP Implementation
+#### **Core Skills**💻
+- 📊**Data Science** | Advanced Analytics | Predictive & Prescriptive Analytics | Optimization Models
+- 🎨**Business Intelligence** | Data Visualization | KPI Dashboards | Actionable Insights
+- 🔄**Finance Transformation** | Process Simplification & Automation | M&A Post-Acquisition Integration
+- 🤖**AI & Machine Learning Algorithms** | Advanced Modeling Techniques
+- 💰**Core Finance** | Financial Planning & Analysis | Strategic Business Partnership | Financial Systems Upgrades | SAP Implementation
 ---
 #### **Tech Toolbox**🛠️
 - **Programming**: Python, SQL  
