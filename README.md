@@ -34,4 +34,4 @@
 - **Advanced Diploma in Systems Management**, NIIT
 - **Diploma in Financial Management**, NMIMS
 
-🌟 [Follow me on LinkedIn](www.linkedin.com/comm/mynetwork/discovery-see-all?usecase=PEOPLE_FOLLOWS&followMember=neenasinghal)
+🌟 **[Follow me on LinkedIn](www.linkedin.com/comm/mynetwork/discovery-see-all?usecase=PEOPLE_FOLLOWS&followMember=neenasinghal)**
