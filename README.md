@@ -7,7 +7,7 @@
 - 🎨**Business Intelligence** | Data Visualization | KPI Dashboards | Actionable Insights
 - 🤖**Artificial Intelligence** | Machine Learning Algorithms | Exploratory Data Analysis | Preprocessing 
 - 🔄**Finance Transformation** | Process Simplification & Automation | M&A Post-Acquisition Integration
-- 💰**Core Finance** | Financial Planning & Analysis | Strategic Business Partnership | Finance Systems Upgrades | SAP Implementation
+- 💰**Core Finance** | Financial Planning & Analysis | Strategic Business Partnership | Systems Upgrades | SAP Implementation
 ---
 ### **Tech Toolbox**🛠️
 - **Programming**: Python, SQL  
