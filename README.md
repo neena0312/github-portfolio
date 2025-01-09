@@ -5,7 +5,7 @@
 ### **Skills**💻
 - 📊**Data Science** | Advanced Analytics | Predictive & Prescriptive Analytics | Optimization Models
 - 🎨**Business Intelligence** | Data Visualization | KPI Dashboards | Actionable Insights
-- 🤖**AI & Machine Learning Algorithms** | Advanced Modeling Techniques
+- 🤖**Artificial Intelligence** | Machine Learning Algorithms | Exploratory Data Analysis | Preprocessing 
 - 🔄**Finance Transformation** | Process Simplification & Automation | M&A Post-Acquisition Integration
 - 💰**Core Finance** | Financial Planning & Analysis | Strategic Business Partnership | Finance Systems Upgrades | SAP Implementation
 ---
