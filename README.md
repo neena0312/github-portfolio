@@ -19,7 +19,7 @@
 ---
 ### [Data Science Projects](https://github.com/neenasinghal/Data-Science-Portfolio)📊🤖
 - [Customer Churn Prediction](https://github.com/neenasinghal/Data-Science-Portfolio/blob/main/Customer%20Churn%20Prediction/Customer%20Churn%20Prediction.ipynb)  
-- [Customer Insights for Marketing Campaign](https://github.com/neenasinghal/Data-Science-Portfolio/blob/main/Customer%20Churn%20Prediction/Customer%20Churn%20Prediction.ipynb)
+- [Customer Insights for Marketing Campaign](https://github.com/neenasinghal/Data-Science-Portfolio/tree/main/Customer%20Insights%20for%20Marketing%20Campaign)
 - [Supply Chain Demand Optimization](https://github.com/neenasinghal/Data-Science-Portfolio/tree/main/Supply%20Chain%20Demand%20Optimization)
 - [Sales Forecasting for Walmart Stores](https://github.com/neenasinghal/Data-Science-Portfolio/tree/main/Sales%20Forecasting%20for%20Walmart%20Stores)
 ---
